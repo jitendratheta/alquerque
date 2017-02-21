@@ -2,27 +2,7 @@
 
 [Alquerque](https://en.wikipedia.org/wiki/Alquerque) is a strategy two player board game that is played on a 7 by 7 board. One player controls the white pieces; the other player controls the black pieces. The object of the game is to capture all of the opponent pieces. Board look like this with pieces of two player.
 
-```
-7  █ --- █ --- █ --- █ --- █ --- █ --- █
-   | \   |   / | \   |   / | \   |   / |
-   |   \ | /   |   \ | /   |   \ | /   |
-6  █ --- █ --- █ --- █ --- █ --- █ --- █
-   |   / | \   |   / | \   |   / | \   |
-   | /   |   \ | /   |   \ | /   |   \ |
-5  █ --- █ --- █ --- █ --- █ --- █ --- █
-   | \   |   / | \   |   / | \   |   / |
-   |   \ | /   |   \ | /   |   \ | /   |
-4  █ --- █ --- █ ---   --- ☻ --- ☻ --- ☻
-   |   / | \   |   / | \   |   / | \   |
-   | /   |   \ | /   |   \ | /   |   \ |
-3  ☻ --- ☻ --- ☻ --- ☻ --- ☻ --- ☻ --- ☻
-   | \   |   / | \   |   / | \   |   / |
-   |   \ | /   |   \ | /   |   \ | /   |
-2  ☻ --- ☻ --- ☻ --- ☻ --- ☻ --- ☻ --- ☻
-   |   / | \   |   / | \   |   / | \   |
-   | /   |   \ | /   |   \ | /   |   \ |
-1  ☻ --- ☻ --- ☻ --- ☻ --- ☻ --- ☻ --- ☻
-```
+![Alquerque Board](http://www.codecup.nl/images/sample2008.png)
 
 Rules for the game can be found [here](http://www.codecup.nl/rules_alquerque.php)
 
